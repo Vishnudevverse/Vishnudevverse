@@ -56,7 +56,7 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
 
 ## 📫 Let’s Connect
 
-- 📧 Email: *[selvanvishnu73@gmail.com]*
+- 📧 Email: *selvanvishnu73@gmail.com*
 - 🌐 Portfolio Website: *[https://github.com/Vishnudevverse/]* (Coming Soon!)
 
 ---
