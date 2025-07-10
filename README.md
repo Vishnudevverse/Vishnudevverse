@@ -18,10 +18,16 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
 
 - **Backend:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=php&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+- **Others:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - **Tools & IDEs:**  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -30,11 +36,11 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
 
 ---
 
-## 🌱 Current Learning & Goals
+## 🌏 Current Learning & Goals
 
-- Building full-stack projects with **Flutter**, **PHP**, and **Node.js**
+- Building full-stack projects
 - Improving my **Data Structures & Algorithms**
-- Exploring **AI** and **ML** with **Python**
+- Using **AI tools** for optimizing code, automation, and smarter development workflows
 - Automating tasks with **Batch Scripts** and **Shell Scripting**
 - Keeping my code **efficient** and **clean**
 
@@ -42,8 +48,8 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
 
 ## 📫 Let’s Connect
 
-- 📧 Email: *[your-email@example.com]*
-- 🌐 Portfolio Website: *[your-website.com]* (Coming Soon!)
+- 📧 Email: *[selvanvishnu73@gmail.com]*
+- 🌐 Portfolio Website: *[https://github.com/Vishnudevverse/]* (Coming Soon!)
 
 ---
 
