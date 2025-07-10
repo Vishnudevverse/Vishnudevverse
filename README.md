@@ -42,9 +42,7 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
   ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-verified-brightgreen?style=flat&logo=google)
   ![Bing Webmaster Tools](https://img.shields.io/badge/Bing%20Webmaster-verified-brightgreen?style=flat&logo=microsoftedge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![.htaccess](https://img.shields.io/badge/.htaccess-Apache-orange?style=flat&logo=apache&logoColor=white)
-  ![.htaccess](https://img.shields.io/badge/.htaccess-Apache-orange?style=flat&logo=apache&logoColor=white)
-    
+      
 ---
 
 ## 🌏 Current Learning & Goals
