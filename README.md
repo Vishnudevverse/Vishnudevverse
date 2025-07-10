@@ -35,6 +35,7 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Bing Webmaster Tools](https://img.shields.io/badge/Bing%20Webmaster-verified-brightgreen?style=flat&logo=microsoftedge)
   ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-verified-brightgreen?style=flat&logo=google)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bing_Fluent_Logo.svg/32px-Bing_Fluent_Logo.svg.png" width="20"/> **Bing Webmaster Tools Verified**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
