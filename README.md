@@ -40,7 +40,7 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-verified-brightgreen?style=flat&logo=google)
   ![Bing Webmaster Tools](https://img.shields.io/badge/Bing%20Webmaster-verified-brightgreen?style=flat&logo=microsoftedge)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Python IDLE](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   
 ---
 
