@@ -32,6 +32,7 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Windows Batch](https://img.shields.io/badge/Windows%20Batch-.bat-blue?style=flat&logo=windows&logoColor=white)
+  ![.htaccess](https://img.shields.io/badge/.htaccess-Apache%20Config-orange?style=flat)
 
 - **Tools & IDEs:**
   
@@ -41,7 +42,9 @@ I believe in learning by doing, keeping things efficient and clean, and sharing 
   ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-verified-brightgreen?style=flat&logo=google)
   ![Bing Webmaster Tools](https://img.shields.io/badge/Bing%20Webmaster-verified-brightgreen?style=flat&logo=microsoftedge)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  
+  ![.htaccess](https://img.shields.io/badge/.htaccess-Apache-orange?style=flat&logo=apache&logoColor=white)
+  ![.htaccess](https://img.shields.io/badge/.htaccess-Apache-orange?style=flat&logo=apache&logoColor=white)
+    
 ---
 
 ## 🌏 Current Learning & Goals
