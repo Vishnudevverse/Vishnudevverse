@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vishnuvarthan
 
-### 🧑‍💻 Aspiring Software Developer | BTech Student | Code Enthusiast
+### 🧑‍💻 Software Developer | BTech Student | Code Enthusiast
 
 Welcome to my GitHub! I love building and experimenting with code across different domains.  
 I believe in learning by doing, keeping things efficient and clean, and sharing my knowledge.
