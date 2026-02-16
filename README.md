@@ -2,7 +2,10 @@
 
 ### 🧑‍💻 Software Developer | BTech Student | Code Enthusiast
 
-A dedicated and results-oriented Computer Science student at SRM University with a 9.81 CGPA. Passionate about building robust and scalable applications from the ground up. Experienced in the complete software development lifecycle, from designing and engineering full-stack websites to strengthening DSA proficiency through competitive programming.
+Computer Science and Engineering student specializing in Full-stack Development and System Administration, with hands-on 
+experience across the full Software Development Life Cycle (SDLC). including UI/UX design, Backend Engineering 
+(PHP/MySQL), and production server hosting. Strong technical foundation in Data Structure and Algorithms(DSA) focused on 
+maintaining high-availability network infrastructure and delivering data-driven web performance.
 
 ---
 
