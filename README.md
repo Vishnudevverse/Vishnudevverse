@@ -57,7 +57,7 @@ A dedicated and results-oriented Computer Science student at SRM University with
 ## 📫 Let’s Connect
 
 - 📧 Email: *vishnuvarthan.tech@gmail.com*
-- 🌐 Portfolio Website: *[https://github.com/Vishnudevverse/](https://portfolio-vishnuvarthan.web.app/)* (Coming Soon!)
+- 🌐 Portfolio Website: *[portfolio-vishnuvarthan.web.app](https://portfolio-vishnuvarthan.web.app/)*
 
 ---
 
